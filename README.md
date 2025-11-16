@@ -25,9 +25,9 @@ The tools I use daily to build robust systems:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), TypeScript |
+| **Languages** | Python, JavaScript (ES6+) |
 | **Frontend** | React, Next.js, Redux, Tailwind CSS |
-| **Backend/API** | Node.js, Express, Node.js, REST/GraphQL |
+| **Backend/API** | Node.js, Express, Node.js, REST API |
 | **Database** | MongoDB |
 
 ### 🔥 Skills at a Glance
